@@ -9,7 +9,7 @@ Feel free to look around and try some of those programs/scripts for yourself.
 <br />
 <br />
 ### Note:  
-   🞄 My Batch(.bat) projects were tested only on Windows 10 Pro Edition.
+   🞄 My Batch(.bat) projects were tested only on Windows 10 Pro Edition.  
 <br />
    🞄 My projects usually are coding exercises, issues are to be expected.  
 <br />
